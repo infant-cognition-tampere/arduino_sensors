@@ -21,4 +21,4 @@ designs and projects on internet.
 * use pep-8
 
 ### Licence
-[MIT](LICENSE.md)
+[MIT](LICENSE)
